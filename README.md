@@ -38,9 +38,16 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-### Home Page:
+###PRODUCT:
+![Screenshot (101)](https://user-images.githubusercontent.com/119559822/215314617-8da69740-0e67-4e4d-9233-859824665581.png)
 
-![output](./images/homepage.jpg)
+###PEOPLE:
+![Screenshot (102)](https://user-images.githubusercontent.com/119559822/215314657-75b899a8-4045-4cd0-91e2-fe2154ca62a4.png)
+###HOME:
+![Screenshot (99)](https://user-images.githubusercontent.com/119559822/215314504-5d050f86-e44c-48ef-a2a0-ea26afc0d236.png)
+###CONTACT:
+![Screenshot (100)](https://user-images.githubusercontent.com/119559822/215314527-cbd3e96b-f0d0-46f8-b955-97ab5af6d7b9.png)
+
 
 ## Result:
 
